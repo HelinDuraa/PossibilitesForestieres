@@ -1,6 +1,6 @@
 # =============================================================================
 # server.R — Possibilités forestières du Québec (SYN-00624)
-# Rappel : server.R ne doit contenir QUE la fonction server().
+# Rappel : server.R ne doit contenir seulement la fonction server().
 # Toutes les fonctions auxiliaires sont dans global.R.
 # =============================================================================
 
